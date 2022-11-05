@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B145B9A0-072D-4780-B823-A81D552A5A9F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement.web/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="LeaveManagement.web/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeaveManagementNet6" expanded="True">
+            <Node name="LeaveManagement.web" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="Areas" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LeaveManagement.web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
