@@ -1,16 +1,22 @@
 ﻿<Properties StartupConfiguration="{B145B9A0-072D-4780-B823-A81D552A5A9F}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement.web/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement.web/appsettings.json">
     <Files>
       <File FileName="LeaveManagement.web/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="LeaveManagement.web/appsettings.json" Line="11" Column="6" />
+      <File FileName="LeaveManagement.web/appsettings.Development.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LeaveManagementNet6" expanded="True">
             <Node name="LeaveManagement.web" expanded="True">
-              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Areas" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>

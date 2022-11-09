@@ -1581,11 +1581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagement.web/LeaveManagement.web.csproj",
+      "projectUniqueName": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagementNet6/LeaveManagement.web/LeaveManagement.web.csproj",
       "projectName": "LeaveManagement.web",
-      "projectPath": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagement.web/LeaveManagement.web.csproj",
+      "projectPath": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagementNet6/LeaveManagement.web/LeaveManagement.web.csproj",
       "packagesPath": "/Users/jerrycalebj/.nuget/packages/",
-      "outputPath": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagement.web/obj/",
+      "outputPath": "/Users/jerrycalebj/Documents/Projects/DotNet/LeaveManagementNet6/LeaveManagementNet6/LeaveManagement.web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jerrycalebj/.nuget/NuGet/NuGet.Config"
